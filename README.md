@@ -1,4 +1,4 @@
-# Stock Market Analytics Dashboard
+# Quant Vision
 
 A powerful, real-time stock market analytics dashboard built with Streamlit. This application provides comprehensive market analysis tools, technical indicators, and trading signals.
 
